@@ -1,2 +1,2 @@
 This is the code written in Java.
-It can be open using Processing.
+It can be opened using Processing.
